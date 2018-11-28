@@ -31,17 +31,3 @@ csv_file.close()
 
 
 
-
-
-
-
-
-#print(first_mon)
-
-
-#brand = contents.a
-
-#brand = contents.find('div', class_='item-branding'
-#description =
-
-#price =s
